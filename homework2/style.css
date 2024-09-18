@@ -1,0 +1,57 @@
+html, body{
+    margin: 0px;
+    padding: 0px;
+}
+table{
+    width: 50%;
+    margin: 20px 30px 20px 30px;
+    border-collapse: collapse;
+    box-shadow: 0 2px 8px rgb(0,0,0,0.1);
+    
+}
+th,td{
+    padding: 12px;
+    border: 1px solid ;
+    text-align: center;
+}
+th{
+    background-color: #526e39;
+}
+td:hover{
+    background-color: #163c1e;
+    cursor: pointer;
+}
+.у{
+background-color: #658354;
+}
+.Л{
+background-color: #75975e;
+}
+.М{
+    background-color: #87ab69;
+}
+.Ц{
+    background-color: #95bb72;
+}
+.З{
+    background-color: #a3c585;
+}
+.Ж{
+    background-color: #b3cf99;
+}
+.Н{
+    background-color: #c7ddb5;
+}
+.А{
+    background-color: #ddead1;
+}
+.Г{
+    background-color: #dae6cf;
+}
+.П{
+    background-color: #eaf6e3;
+}
+.par{
+text-indent: 170px;
+font-size: 30px;
+}
